@@ -5,7 +5,12 @@ Responsive Portfolio WebPage Design
 
 The task is used to replicate the frontend design of Portfolio App. It is seen in both mobile view and desktop view.
 
-# App Link -> https://portfolio-iota-olive-74.vercel.app/
+# Links
+
+App Link -> https://portfolio-iota-olive-74.vercel.app/
+
+Github Link -> https://github.com/kavyanimmaturi/Portfolio.git
+
 
 # Technologies Used:
    HTML
